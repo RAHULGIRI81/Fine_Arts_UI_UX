@@ -17,7 +17,7 @@ class _Fine_arts_uiState extends State<Fine_arts_ui> {
     return Scaffold(
       backgroundColor: Colors.grey.shade300,
       body: Padding(
-        padding: const EdgeInsets.only(left: 140,top: 250),
+        padding: const EdgeInsets.only(left: 100,top: 250),
         child: Column(
           children: [
             Text('Fine Arts UI',style: GoogleFonts.alumniSans(fontWeight: FontWeight.bold,fontSize: 40),),
